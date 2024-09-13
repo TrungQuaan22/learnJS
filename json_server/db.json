@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Vật Lý 12",
+      "description": "Bồi dưỡng học sinh giỏi"
+    },
+    {
+      "id": 2,
+      "name": "Toán 12",
+      "description": "Ôn tập"
+    },
+    {
+      "id": "2933",
+      "name": "Văn",
+      "description": "THPT QG"
+    },
+    {
+      "id": "e1e8",
+      "name": "Văn HSG",
+      "description": "THPT QG"
+    }
+  ]
+}
